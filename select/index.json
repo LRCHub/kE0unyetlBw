@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Destination Calabria [Radio Edit]",
+  "base_artist": "アレックス・ガウディーノ",
+  "createdAt": "2026-02-15T15:14:23.465805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino",
+      "has_synced": true,
+      "path": "select/01_Destination_Calabria_(Radio_Edit)_Alex_Gaudino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino",
+      "has_synced": true,
+      "path": "select/02_Destination_Calabria_(Radio_Edit)_Alex_Gaudino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Destination Calabria - Radio Edit",
+      "artist": "Alex Gaudino",
+      "has_synced": false,
+      "path": "select/03_Destination_Calabria_-_Radio_Edit_Alex_Gaudino.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino",
+      "has_synced": true,
+      "path": "select/04_Destination_Calabria_(Radio_Edit)_Alex_Gaudino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Destination Calabria - Radio Edit (Paused)",
+      "artist": "Alex Gaudino",
+      "has_synced": true,
+      "path": "select/05_Destination_Calabria_-_Radio_Edit_(Paused)_Alex_Gaudino.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino, Crystal Waters",
+      "has_synced": true,
+      "path": "select/06_Destination_Calabria_(Radio_Edit)_Alex_Gaudino,_Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino\r\nCrystal Waters",
+      "has_synced": true,
+      "path": "select/07_Destination_Calabria_(Radio_Edit)_Alex_Gaudino_Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino, Crystal Waters",
+      "has_synced": true,
+      "path": "select/08_Destination_Calabria_(Radio_Edit)_Alex_Gaudino,_Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino\u0000Crystal Waters",
+      "has_synced": true,
+      "path": "select/09_Destination_Calabria_(Radio_Edit)_Alex_Gaudino\u0000Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Destination Calabria - Radio Edit",
+      "artist": "Alex Gaudino vs. Crystal Waters",
+      "has_synced": true,
+      "path": "select/10_Destination_Calabria_-_Radio_Edit_Alex_Gaudino_vs._Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino Feat. Crystal Waters",
+      "has_synced": true,
+      "path": "select/11_Destination_Calabria_(Radio_Edit)_Alex_Gaudino_Feat._Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino feat. Crystal Waters",
+      "has_synced": true,
+      "path": "select/12_Destination_Calabria_(Radio_Edit)_Alex_Gaudino_feat._Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Destination Calabria - Radio Edit (feat. Crystal Waters)",
+      "artist": "Alex Gaudino",
+      "has_synced": true,
+      "path": "select/13_Destination_Calabria_-_Radio_Edit_(feat._Crystal_Waters)_Alex_Gaudino.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino feat. Crystal Waters",
+      "has_synced": true,
+      "path": "select/14_Destination_Calabria_(Radio_Edit)_Alex_Gaudino_feat._Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino, Crystal Waters",
+      "has_synced": true,
+      "path": "select/15_Destination_Calabria_(Radio_Edit)_Alex_Gaudino,_Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino Crystal Waters",
+      "has_synced": true,
+      "path": "select/16_Destination_Calabria_(Radio_Edit)_Alex_Gaudino_Crystal_Waters.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Guadino Feat. Crystal Waters",
+      "has_synced": true,
+      "path": "select/17_Destination_Calabria_(Radio_Edit)_Alex_Guadino_Feat._Crystal_Waters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Destination Calabria (Radio Edit)",
+      "artist": "Alex Gaudino",
+      "has_synced": false,
+      "path": "select/pl_01_Destination_Calabria_(Radio_Edit)_Alex_Gaudino.txt"
+    }
+  ]
+}
